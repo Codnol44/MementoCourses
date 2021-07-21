@@ -1,0 +1,25 @@
+li {
+    cursor: pointer;
+}
+
+::marker {
+    color: red;
+    font-size: 1em;
+}
+
+.article {
+    font-size: x-large;
+    margin: 2px;
+}
+
+body {
+    background-color: bisque;
+    font-family: impact;
+}
+
+#ListeCourses {
+    background-color: aquamarine;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+}
